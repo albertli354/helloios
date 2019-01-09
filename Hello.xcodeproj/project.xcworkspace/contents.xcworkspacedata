@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Hello.xcodeproj">
+      location = "absolute:Users/albert/Desktop/info449/hw1/helloios">
    </FileRef>
 </Workspace>
